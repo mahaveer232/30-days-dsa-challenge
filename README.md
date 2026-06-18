@@ -62,6 +62,8 @@
 | Bottom-up Tree Traversal | Day 03 |
 | Divisibility Filtering | Day 04 |
 | Combinatorics Formula n*(n-1)/2 | Day 04 |
+| Sorting + Frequency Count | Day 05 |
+| Tie-breaking using Sort Order | Day 05 |
 
 ---
 
