@@ -21,7 +21,7 @@
 | [Day 02](./Day-02/) | PrimeVibe Check | Easy | 100/100 | ✅ Solved |
 | [Day 03](./Day-03/) | Galactic Communication Towers | Medium | 120/120 | ✅ Solved |
 | [Day 04](./Day-04/) | Pairing Lucky Stones in the Village Festival | Easy | 100/100 | ✅ Solved |
-| [Day 05](./Day-05/) | The Busiest Book Shelf | 100/100 ✅ | C | ✅ Solved |
+| [Day 05](./Day-05/) | The Busiest Book Shelf | Medium | 100/100 | ✅ Solved |
 | Day 06 | Coming Soon... | - | - | ⏳ |
 | Day 07 | Coming Soon... | - | - | ⏳ |
 | Day 08 | Coming Soon... | - | - | ⏳ |
